@@ -67,3 +67,6 @@ The easiest, and most secure way to access and protect all of your infrastructur
 
 ## [MinIO](https://github.com/minio/minio)
 MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license. 
+
+## [Watchtower](https://github.com/containrrr/watchtower)
+A process for automating Docker container base image updates. 
