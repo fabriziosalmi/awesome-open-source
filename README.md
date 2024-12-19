@@ -29,11 +29,11 @@ The Free Software Media System - Server Backend & API
 ## [zitadel](https://github.com/zitadel/zitadel)
 Identity infrastructure, simplified for you. 
 
-## [Caddy}(https://caddyserver.com/)
+## [Caddy](https://caddyserver.com/)
 Caddy is a powerful, extensible platform to serve your sites, services, and apps, written in Go. If you're new to Caddy, the way you serve the Web is about to change.
 
 ## [Infisical](https://github.com/Infisical/infisical)
-♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI 
+Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI 
 
 ## [Activepieces](https://github.com/activepieces/activepieces)
 Your friendliest open source AI automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative 
