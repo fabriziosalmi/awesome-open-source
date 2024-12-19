@@ -70,3 +70,6 @@ MinIO is a high-performance, S3 compatible object store, open sourced under GNU 
 
 ## [Watchtower](https://github.com/containrrr/watchtower)
 A process for automating Docker container base image updates. 
+
+## [Discourse](https://github.com/discourse/discourse)
+A platform for community discussion. Free, open, simple. 
