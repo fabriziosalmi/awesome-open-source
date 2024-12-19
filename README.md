@@ -25,3 +25,9 @@ The Browser Exploitation Framework Project
 
 ## [Jellyfin](https://github.com/jellyfin/jellyfin)
 The Free Software Media System - Server Backend & API 
+
+## [zitadel](https://github.com/zitadel/zitadel)
+Identity infrastructure, simplified for you. 
+
+## [Caddy}(https://caddyserver.com/)
+Caddy is a powerful, extensible platform to serve your sites, services, and apps, written in Go. If you're new to Caddy, the way you serve the Web is about to change.
