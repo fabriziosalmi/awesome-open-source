@@ -14,5 +14,5 @@ DNSControl is an opinionated platform for seamlessly managing your DNS configura
 Unified XDR and SIEM protection for endpoints
 and cloud workloads.
 
-## [Azuracast](https://www.azuracast.com/)
+## [AzuraCast](https://www.azuracast.com/)
 Free and open-source, self-hosted web radio station in a box
