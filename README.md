@@ -46,3 +46,6 @@ Langflow is a low-code app builder for RAG and multi-agent AI applications. Itâ€
 
 ## [8n8](https://github.com/n8n-io/n8n)
 Secure, AI-native workflow automation
+
+## [Open WebUI](https://github.com/open-webui/open-webui)
+User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 
