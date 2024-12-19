@@ -7,3 +7,5 @@ Proxmox Virtual Environment is a complete open-source platform for enterprise vi
 ## [OpenObserve](https://github.com/openobserve/openobserve)
 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay). 
 
+## [DNSControl](https://dnscontrol.org/)
+DNSControl is an opinionated platform for seamlessly managing your DNS configuration across any number of DNS hosts, both in the cloud or in your own infrastructure. It manages all of the domains for the Stack Overflow network, and can do the same for you!
