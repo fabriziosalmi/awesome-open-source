@@ -64,3 +64,6 @@ The easiest way to run WireGuard VPN + Web-based Admin UI.
 
 ## [Teleport](https://github.com/gravitational/teleport)
 The easiest, and most secure way to access and protect all of your infrastructure. 
+
+## [MinIO](https://github.com/minio/minio)
+MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license. 
