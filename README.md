@@ -52,3 +52,6 @@ User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
 ## [Plane](https://github.com/makeplane/plane)
  🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible. 
+
+## [Pinokio](https://github.com/pinokiocomputer/pinokio)
+AI Browser 
