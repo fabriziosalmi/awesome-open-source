@@ -31,3 +31,6 @@ Identity infrastructure, simplified for you.
 
 ## [Caddy}(https://caddyserver.com/)
 Caddy is a powerful, extensible platform to serve your sites, services, and apps, written in Go. If you're new to Caddy, the way you serve the Web is about to change.
+
+## [Infisical](https://github.com/Infisical/infisical)
+♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI 
