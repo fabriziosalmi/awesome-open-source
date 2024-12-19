@@ -49,3 +49,6 @@ Secure, AI-native workflow automation
 
 ## [Open WebUI](https://github.com/open-webui/open-webui)
 User-friendly AI Interface (Supports Ollama, OpenAI API, ...) 
+
+## [Plane](https://github.com/makeplane/plane)
+ 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible. 
