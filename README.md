@@ -34,3 +34,6 @@ Caddy is a powerful, extensible platform to serve your sites, services, and apps
 
 ## [Infisical](https://github.com/Infisical/infisical)
 ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI 
+
+## [Activepieces](https://github.com/activepieces/activepieces)
+Your friendliest open source AI automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative 
