@@ -19,3 +19,6 @@ Free and open-source, self-hosted web radio station in a box
 
 ## [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 A feature-rich command-line audio/video downloader 
+
+## [BEEF](https://github.com/beefproject/beef)
+The Browser Exploitation Framework Project 
