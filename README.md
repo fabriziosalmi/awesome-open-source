@@ -40,3 +40,6 @@ Your friendliest open source AI automation tool ✨ Workflow automation tool 200
 
 ## [Streamlit](https://github.com/streamlit/streamlit)
 A faster way to build and share data apps. 
+
+## [Langflow](https://github.com/langflow-ai/langflow)
+Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database. 
