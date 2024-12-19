@@ -43,3 +43,6 @@ A faster way to build and share data apps.
 
 ## [Langflow](https://github.com/langflow-ai/langflow)
 Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database. 
+
+## [8n8](https://github.com/n8n-io/n8n)
+Secure, AI-native workflow automation
