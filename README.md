@@ -22,3 +22,6 @@ A feature-rich command-line audio/video downloader
 
 ## [BEEF](https://github.com/beefproject/beef)
 The Browser Exploitation Framework Project 
+
+## [Jellyfin](https://github.com/jellyfin/jellyfin)
+The Free Software Media System - Server Backend & API 
