@@ -58,3 +58,6 @@ AI Browser
 
 ## [Hugo](https://gohugo.io/)
 The world’s fastest framework for building websites 
+
+## [wg-easy](https://github.com/wg-easy/wg-easy)
+The easiest way to run WireGuard VPN + Web-based Admin UI. 
