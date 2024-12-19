@@ -9,3 +9,7 @@ Proxmox Virtual Environment is a complete open-source platform for enterprise vi
 
 ## [DNSControl](https://dnscontrol.org/)
 DNSControl is an opinionated platform for seamlessly managing your DNS configuration across any number of DNS hosts, both in the cloud or in your own infrastructure. It manages all of the domains for the Stack Overflow network, and can do the same for you!
+
+## [Wazuh](https://wazuh.com/)
+Unified XDR and SIEM protection for endpoints
+and cloud workloads.
