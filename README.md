@@ -55,3 +55,6 @@ User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
 ## [Pinokio](https://github.com/pinokiocomputer/pinokio)
 AI Browser 
+
+## [Hugo](https://gohugo.io/)
+The world’s fastest framework for building websites 
