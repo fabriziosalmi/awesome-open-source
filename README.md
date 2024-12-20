@@ -1,8 +1,6 @@
 # Awesome Open Source Projects
 
-This is a curated list of impressive open-source projects that can enhance your workflows, infrastructure, and digital experience.
-
-**Index**
+This is a curated list of impressive open-source projects that can enhance your workflows, infrastructure, and digital experience:
 
 1.  [Proxmox VE](#proxmox-ve)
 2.  [OpenObserve](#openobserve)
